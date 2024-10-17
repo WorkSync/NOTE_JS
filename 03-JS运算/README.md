@@ -380,7 +380,7 @@ console.log(NaN == NaN); // false
 console.log(isNaN(NaN)); // true
 ```
 
-### `!=` 不想等
+### `!=` 不相等
 
 不相等运算符用来判断两个值是否不相等，如果不相等返回`true`，否则返回`false`
 
